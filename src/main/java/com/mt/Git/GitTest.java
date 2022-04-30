@@ -11,5 +11,9 @@ public class GitTest {
         System.out.println("hot-fix 热修复分支");
 
         System.out.println("push test");
+        System.out.println("push test");
+        System.out.println("push test");
+        System.out.println("push test");
+        System.out.println("push test");
     }
 }
